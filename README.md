@@ -22,7 +22,7 @@ npm install
 
 The tool simulates keyboard input, so your terminal needs Accessibility access.
 
-Go to System Settings → Privacy & Security → Accessibility and add your terminal app (Terminal, iTerm2, Warp, etc.).
+Go to System Settings → Privacy & Security → Accessibility and add your terminal app (Terminal, Ghostty, Alacritty, etc.).
 
 **macOS — Disable "Add period with double space"**
 
