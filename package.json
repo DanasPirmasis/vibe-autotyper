@@ -1,6 +1,6 @@
 {
   "name": "vibe-autotyper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Types a code file character-by-character into the focused window",
   "main": "index.js",
   "bin": {
