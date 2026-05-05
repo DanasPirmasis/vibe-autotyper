@@ -2,6 +2,8 @@
 
 Types a file into your editor character by character, like a human would. Useful for recordings or demos.
 
+> **Disclaimer:** This project was fully vibe coded. Use at your own risk.
+
 ## Requirements
 
 - Node.js 18+
