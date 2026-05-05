@@ -7,6 +7,18 @@
     "vibe-autotyper": "./index.js"
   },
   "type": "module",
+  "keywords": [
+    "autotyper",
+    "typing",
+    "automation",
+    "vscode",
+    "demo",
+    "cli"
+  ],
+  "files": [
+    "index.js",
+    "typer.js"
+  ],
   "dependencies": {
     "commander": "^14.0.0",
     "robotjs": "^0.7.0"
